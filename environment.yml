@@ -18,6 +18,9 @@ dependencies:
   - seaborn
   - hvplot
 
+# postgres
+  - psycopg2
+
 # Jupyter environment
   - jupyterlab
   - jupyterlab-git
